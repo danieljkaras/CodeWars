@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bingo Card/Bingo Card.iml" filepath="$PROJECT_DIR$/Bingo Card/Bingo Card.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeWars.iml" filepath="$PROJECT_DIR$/CodeWars.iml" />
       <module fileurl="file://$PROJECT_DIR$/Create Phone Number/Create Phone Number.iml" filepath="$PROJECT_DIR$/Create Phone Number/Create Phone Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/Remove String Spaces/Remove String Spaces.iml" filepath="$PROJECT_DIR$/Remove String Spaces/Remove String Spaces.iml" />
