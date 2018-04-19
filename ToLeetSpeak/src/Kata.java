@@ -12,7 +12,7 @@ public class Kata {
     public String toLeetSpeak(String speak) {
 
         Map<String, String> alphabetMap = decode();
-        char[] speakTable = speak.toCharArray();
+        char[] speakTable = speak.toUpperCase().toCharArray();
 
         StringBuilder builder = new StringBuilder();
 
