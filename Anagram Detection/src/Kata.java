@@ -13,7 +13,7 @@ import java.util.Arrays;
 
 public class Kata {
 
-    public static void main (String[]args){
+    public static void main(String[] args) {
 
         Kata kata = new Kata();
         kata.isAnagram("Buckethead", "DeathCubeK");
@@ -31,18 +31,24 @@ public class Kata {
 
         boolean result = true;
 
+        StringBuilder builderOrginal = new StringBuilder();
+        StringBuilder builderTest = new StringBuilder();
+
+        String orginalWord = builderOrginal.append(beforeAnagram).toString();
+        String testWord = builderTest.append(afterAnagram).toString();
+
         if (beforeAnagram.length != afterAnagram.length) {
             result = false;
+        } else if (test.equals(original)) {
+            result = false;
         } else {
-            for (int i = 0; i < afterAnagram.length; i++) {
-                if (afterAnagram[i] == beforeAnagram[i]) {
-                    result = true;
-                } else {
-                    result = false;
-                }
+            if (orginalWord.equals(testWord)) {
+                result = true;
+            } else {
+                result = false;
             }
         }
-        System.out.println(result);
+
         return result;
     }
 }

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="814f2fe7-44c1-4906-a6d0-ce8dd595f0ad" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Anagram Detection/src/Kata.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ConvertingLinkedListToString.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Anagram Detection/src/Kata.java" afterPath="$PROJECT_DIR$/Anagram Detection/src/Kata.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,10 +30,10 @@
       <file leaf-file-name="Kata.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Anagram Detection/src/Kata.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-63">
-              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+            <state relative-caret-position="447">
+              <caret line="51" column="20" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="51" selection-end-column="22" />
               <folding>
-                <element signature="e#0#1412#0" expanded="true" />
+                <element signature="e#0#1652#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,7 +136,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="245" />
     <option name="y" value="-10" />
     <option name="width" value="840" />
@@ -390,7 +389,7 @@
       <workItem from="1524557565965" duration="4651000" />
       <workItem from="1524600865736" duration="4487000" />
       <workItem from="1524638182358" duration="26428000" />
-      <workItem from="1524727142712" duration="3707000" />
+      <workItem from="1524727142712" duration="4746000" />
     </task>
     <servers />
   </component>
@@ -427,10 +426,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119989000" />
+    <option name="totallyTimeSpent" value="121028000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -850,10 +849,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Anagram Detection/src/Kata.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
-          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        <state relative-caret-position="447">
+          <caret line="51" column="20" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="51" selection-end-column="22" />
           <folding>
-            <element signature="e#0#1412#0" expanded="true" />
+            <element signature="e#0#1652#0" expanded="true" />
           </folding>
         </state>
       </provider>
