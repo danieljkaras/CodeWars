@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="814f2fe7-44c1-4906-a6d0-ce8dd595f0ad" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Growth of a population/src/Arge.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Anagram Detection/src/Kata.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ConvertingLinkedListToString.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +18,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Arge.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Growth of a population/src/Arge.java">
+      <file leaf-file-name="RemoveLetter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/RemoveFirstAndLastLetter/RemoveLetter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="374">
+              <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Kata.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Anagram Detection/src/Kata.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-63">
+              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#1412#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scramblies.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scramblies/src/Scramblies.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="18" column="49" lean-forward="false" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -54,10 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/ConvertingLinkedListToString.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Shapes.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Shape.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ShapeList.java" />
         <option value="$PROJECT_DIR$/src/com/company/RemoveFirstAndLastLetter/RemoveLetter.java" />
         <option value="$PROJECT_DIR$/Two To One/src/README.md" />
         <option value="$PROJECT_DIR$/Two To One/src/TwoToOne.java" />
@@ -105,6 +124,10 @@
         <option value="$PROJECT_DIR$/Scramblies/src/Scramblies.java" />
         <option value="$PROJECT_DIR$/Follow The Spy/src/Routes.java" />
         <option value="$PROJECT_DIR$/Growth of a population/src/Arge.java" />
+        <option value="$PROJECT_DIR$/Growth of a population/src/README.md" />
+        <option value="$PROJECT_DIR$/Convert linked list to a string/src/Node.java" />
+        <option value="$PROJECT_DIR$/Convert linked list to a string/src/Kata.java" />
+        <option value="$PROJECT_DIR$/Anagram Detection/src/Kata.java" />
       </list>
     </option>
   </component>
@@ -114,9 +137,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="438" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="245" />
+    <option name="y" value="-10" />
     <option name="width" value="840" />
     <option name="height" value="1010" />
   </component>
@@ -148,7 +171,36 @@
             <path>
               <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="Growth of a population" type="462c0819:PsiDirectoryNode" />
+              <item name="Anagram Detection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="Scramblies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="Scramblies" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="RemoveFirstAndLastLetter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Arge">
+  <component name="RunManager" selected="Application.Kata">
     <configuration name="Arge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Arge" />
@@ -213,6 +265,20 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Growth of a population" />
+      <envs />
+    </configuration>
+    <configuration name="Kata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Kata" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Anagram Detection" />
       <envs />
     </configuration>
     <configuration name="PanagramChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -257,26 +323,6 @@
       <module name="Scramblies" />
       <envs />
     </configuration>
-    <configuration name="FindOddTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="Find the odd int" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FindOddTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -293,19 +339,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.FindOddTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PanagramChecker" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Scramblies" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Routes" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Arge" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PanagramChecker" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Scramblies" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Routes" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Arge" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Kata" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Arge" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Routes" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Scramblies" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PanagramChecker" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.FindOddTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Kata" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Arge" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Routes" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Scramblies" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PanagramChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +390,7 @@
       <workItem from="1524557565965" duration="4651000" />
       <workItem from="1524600865736" duration="4487000" />
       <workItem from="1524638182358" duration="26428000" />
-      <workItem from="1524727142712" duration="1781000" />
+      <workItem from="1524727142712" duration="3707000" />
     </task>
     <servers />
   </component>
@@ -381,10 +427,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118063000" />
+    <option name="totallyTimeSpent" value="119989000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -397,10 +443,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.49511003" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37428898" sideWeight="0.49755502" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37318435" sideWeight="0.49755502" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6730769" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66923076" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -456,54 +502,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/RemoveFirstAndLastLetter/RemoveLetter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Two To One/src/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Two To One/src/TwoToOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Two To One/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create Phone Number/src/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Create Phone Number/src/CreatePhoneNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -783,13 +781,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scramblies/src/Scramblies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Follow The Spy/src/Routes.java" />
     <entry file="file://$PROJECT_DIR$/Find the odd int/src/FindOdd.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -798,11 +789,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Growth of a population/src/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Growth of a population/src/Arge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Convert linked list to a string/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Convert linked list to a string/src/Kata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/RemoveFirstAndLastLetter/RemoveLetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scramblies/src/Scramblies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="18" column="49" lean-forward="false" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anagram Detection/src/Kata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#1412#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -858,7 +910,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Growth of a population</last-edited>
+          <last-edited>Anagram Detection</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

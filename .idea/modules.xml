@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Anagram Detection/Anagram Detection.iml" filepath="$PROJECT_DIR$/Anagram Detection/Anagram Detection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bingo Card/Bingo Card.iml" filepath="$PROJECT_DIR$/Bingo Card/Bingo Card.iml" />
       <module fileurl="file://$PROJECT_DIR$/Check three and two/Check three and two.iml" filepath="$PROJECT_DIR$/Check three and two/Check three and two.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeWars.iml" filepath="$PROJECT_DIR$/CodeWars.iml" />
